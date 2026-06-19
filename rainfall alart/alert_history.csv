@@ -1,0 +1,3 @@
+timestamp_utc,city,rainfall_mm_last_1h,alert_level,alert_message,source
+2026-03-31T04:38:11Z,Seattle,11.0,YELLOW,Elevated rainfall. Monitor conditions.,demo
+2026-03-31T04:42:14Z,Seattle,25.3,RED,High rainfall. Flood risk may be elevated.,demo
