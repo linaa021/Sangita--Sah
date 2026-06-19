@@ -1,6 +1,6 @@
 🌊 Smart Water Lab: Software Development Experiments
 
-I built this for the 2025–2026 **Software Development course** at **Xi'an Jiaotong University**, one of the early university courses focusing on **AI-driven software engineering and applied simulation systems**.
+I built this for the "Software Development course" at Xi'an Jiaotong University, one of the early university courses focusing on "AI-driven software engineering and applied simulation systems".
 
 Each experiment solves a different water-engineering problem using Python.  
 For every assignment, I implemented all required features, then extended the system with optional improvements, additional validation logic, visualization tools, and automated test suites.
